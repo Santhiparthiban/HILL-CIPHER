@@ -112,8 +112,7 @@ return 0;
 ## OUTPUT
 
 
-
-
+<img width="1306" height="736" alt="Screenshot 2026-09-02 095335" src="https://github.com/user-attachments/assets/f54c8df0-17a7-4ad5-b840-306f4d481a48" />
 
 
 ## RESULT
